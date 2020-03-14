@@ -6,3 +6,48 @@
 img {
     width: 250px;
 }
+
+.contact-form {
+    width: 80%;
+    max-width: 600px;
+    position: absolute;
+    padding: 40px 40px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    top: 10%;
+    left: 10%;
+    text-align: center;
+    background-color: lightyellow;
+}
+
+.contact-form h1 {
+    margin-top: 0;
+    font-weight: bold;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+.txtb {
+    padding: 10px 10px;
+    border: 1px solid black;
+    margin: 5px;
+    border: none;
+    background-color: lightgray;
+}
+
+.txtb input, .txtb textarea {
+    width: 100%;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.txtb label {
+    display: block;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.btn {
+    background: lightblue;
+}
