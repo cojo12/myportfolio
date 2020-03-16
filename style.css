@@ -26,7 +26,7 @@
     padding: 40px;
     box-sizing: border-box;
     border-radius: 10px;
-    background-color: lightgray;
+    background-color: snow;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@
 .container-about {
     padding: 20px;
     max-width: 100%;
-    
+    background-color: snow;
     align-content: center;
 }
 
@@ -51,9 +51,8 @@ img {
 
 .txtb-contact {
     padding: 20px;
-    border: 1px solid black;
+    border-bottom: 1px solid black;
     margin: 5px;
-    border-radius: 20px;
 }
 
 .txtb-contact label {
